@@ -1,0 +1,72 @@
+Course Code,Name,Grade,Type,Subject,Lessons,Prerequisites,2011-2012,2012-2013,2013-2014,2014-2015,2015-2016,2016-2017,2017-2018,2018-2019,2019-2020,2020-2021,2021-2022
+CGC1D,Issues in Canadian Geography,9,Academic,Canadian and World Studies,22,0,120235,111980,110190,109870,106112,103725,105238,      102267,              103848,              105608,              106338
+EAE1D,English,9,Academic,English,28,0,5645,5350,5130,4935,4793,4659,4538,        4153,                4290,                4148,                4178
+ENG1D,English,9,Academic,English,27,0,119525,110690,108905,108335,104758,102230,104020,      101098,              102809,              104662,              105245
+EAE2D,English,10,Academic,English,17,EAE1D or EAE1P,5225,5135,4775,4555,4527,4367,4072,        4156,                3961,                4057,                3979
+SNC2P,Science,10,Applied,Science,26,SNC1W or SNC1D or SNC1P,32295,34305,36370,36465,36818,38161,38448,       40788,               42576,               44686,               47902
+CHC2P,Canadian History Since World War I,10,Applied,Canadian and World Studies,20,0,35430,37935,39090,39520,39096,41477,41167,       43498,               45093,               47421,               51203
+MFM2P,Foundations of Mathematics,10,Applied,Mathematics,28,MFM1P or MPM1D or MTH1W,40845,44435,47450,48240,48735,50176,50596,       53220,               54995,               58624,               63174
+BBI2O,Introduction to Business,10,Open,Business Studies,20,0,44070,37350,32480,29870,28711,28839,27550,       26125,               25697,               25220,               26044
+CHC2D,Canadian History Since World War I,10,Academic,Canadian and World Studies,20,0,107810,103250,102715,99865,97190,99362,97060,       98140,               99788,              101136,              102799
+ENG2D,English,10,Academic,English,17,ENG1W or ENG1D,113240,109925,110280,108125,105995,107759,104419,      105373,              107573,              108886,              111169
+SNC2D,Science,10,Academic,Science,21,SNC1D or SNC1P,114770,111165,110350,108305,105869,107577,104005,      104206,              105869,              106679,              109048
+GLC2O,Career Studies,10,Open,Guidance and Career Education,12,0,144660,141630,146060,145750,148006,154896,153264,      158168,              164518,              168462,              172940
+MPM2D,Principles of Mathematics,10,Academic,Mathematics,20,MTH1W or MPM1D,109100,104160,103510,101345,98858,99734,96097,       95751,               96796,               97830,               99581
+SCH3U,Chemistry,11,University Preparation,Science,23,SNC2D,65840,68310,64885,64235,65596,64021,63774,       63995,               63602,               63831,               63136
+SBI3C,Biology,11,College Preparation,Science,38,SNC2D or SNC2P,16155,16895,17525,18105,19182,19777,21004,       21636,               22749,               24150,               25217
+SPH3U,Physics,11,University Preparation,Science,23,SNC2D,46565,47710,44510,44670,46069,45053,44413,       45202,               45386,               45762,               45114
+SBI3U,Biology,11,University Preparation,Science,39,SNC2D,63620,64605,61445,60980,62675,61744,61930,       62302,               63107,               64933,               66095
+BMX3E,Marketing: Retail and Service,11,Workplace Preparation,Business Studies,20,0,1100,900,955,1210,1321,1503,1828,        1975,                2081,                2031,                1993
+CLU3M,Understanding Canadian Law,11,University / College Preparation,Canadian and World Studies,23,CHC2D or CHC2P,30095,33135,30755,29620,31426,30637,31125,       30406,               30753,               33056,               34278
+EAE3U,English,11,University Preparation,English,18,EAE2D,4570,4265,3945,4010,3779,3620,3628,        3522,                3603,                3486,                3632
+EMS3O,Media Studies,11,Open,English,33,ENG2D or ENG2P,2735,2815,2780,3625,4311,4473,5487,        6420,                8640,               10365,               12805
+ENG3E,English,11,Workplace Preparation,English,20,ENG2L or ENG2P,3910,4385,4805,5220,5851,6336,7005,        7647,                8321,                8953,                9705
+GWL3O,Designing Your Future,11,Open,Guidance and Career Education,19,0,8230,8075,6490,6970,7868,8189,9404,        9628,               11302,               14152,               15806
+NDA3M,"Contemporary First Nations, Métis, and Inuit Issues and Perspectives",11,University Preparation,"First Nations, Métis & Inuit Studies",19,0,1370,1195,985,1290,1358,1198,1306,        1067,                1068,                1153,                1181
+SVN3E,Environmental Science,11,Workplace Preparation,Science,30,SNC1D or SNC1L or SNC1P or SNC2L,5035,4420,4405,4665,4925,4993,4794,        5497,                5791,                6153,                6872
+SVN3M,Environmental Science,11,University / College Preparation,Science,24,SNC2D or SNC2P,4730,4470,3995,3905,3935,3636,4100,        4258,                4893,                4878,                6038
+ENG3C,English,11,College Preparation,English,17,ENG2D or ENG2P,22440,27695,32260,36080,40142,42796,46329,       48750,               51276,               56252,               61149
+CIE3M,The Individual and the Economy,11,University / College Preparation,Canadian and World Studies,20,CHC2D or CHC2P,3250,3055,2895,3315,3382,3270,3109,        3028,                2987,                2993,                3195
+BDI3C,Entrepreneurship: The Venture,11,College Preparation,Business Studies,20,0,13265,10235,8895,8860,9359,8596,8599,        8469,                9482,               10030,               11034
+CHW3M,World History to the End of the Fifteenth Century,11,University / College Preparation,Canadian and World Studies,20,CHC2D or CHC2P,10465,11155,10895,11275,11994,13016,14523,       15600,               18083,               20611,               22711
+MEL3E,Mathematics for Work and Everyday Life,11,Workplace Preparation,Mathematics,27,MAT2L or MFM1P or MPM1D or MTH1W,16305,15785,16515,17075,17543,17526,18678,       19258,               20852,               22872,               23890
+AVI3M,Visual Arts,11,Workplace Preparation,Arts,20,AVI1O or AVI2O,18865,17920,17645,17405,17550,17303,17006,       17239,               17975,               18414,               18684
+MCF3M,Functions and Applications,11,University / College Preparation,Mathematics,30,MFM2P or MPM2D,23625,27945,30620,31290,32240,31718,33067,       33927,               35205,               37208,               38491
+BAF3M,Financial Accounting Fundamentals,11,University / College Preparation,Business Studies,29,0,29035,27735,25570,25320,26591,26123,26133,       25170,               26325,               27049,               27025
+EAE3C,English,11,College Preparation,English,18,EAE2P,1530,1560,1550,1575,1535,1529,1693,        1644,                1676,                1823,                1780
+ENG3U,English,11,University Preparation,English,18,ENG2D,64680,77105,84615,87420,93154,92337,94740,       96967,               99067,              102743,              105345
+MCR3U,Functions,11,University Preparation,Mathematics,25,MPM2D,83625,81455,77675,76715,77574,75257,74145,       73337,               73232,               74371,               74139
+HPC3O,Raising Healthy Children,11,Open,Social Sciences and Humanities,20,0,9890,10235,9710,10005,10806,11846,13754,       15426,               17834,               22131,               25274
+NBE3U,"English - Understanding Contemporary First Nations, Métis, and Inuit Voices",11,University Preparation,"First Nations, Métis & Inuit Studies",28,ENG2D,34695,21150,13035,9170,5642,3385,1822,        1388,                1106,                 651,                 592
+TFJ3C,Hospitality and Tourism,11,College Preparation,Technological Education,20,0,9065,8555,8690,8425,8876,8213,8142,        8462,                8270,                9477,                9242
+HRT3M,"World Religions and Belief Traditions: Perspectives, Issues, and Challenges",11,University / College Preparation,Social Sciences and Humanities,20,0,27080,26740,27010,28285,29743,30495,32499,       33473,               34428,               29795,               31729
+MBF3C,Foundations for College Mathematics,11,College Preparation,Mathematics,20,MFM2P,38075,38445,39825,39795,42019,41386,43313,       44395,               46318,               50012,               53745
+SBI4U,Biology,12,University Preparation,Science,31,SBI3U,41965,40475,36385,37640,37387,37494,37518,       37990,               39440,               40852,               40570
+MHF4U,Advanced Functions,12,University Preparation,Mathematics,42,MCR3U or MCT4C,64110,61220,59215,60475,59242,58548,58160,       57504,               58970,               59863,               57835
+ENG4U,English,12,University Preparation,English,27,ENG3U,90490,86785,83130,84100,81441,81596,81623,       83888,               87655,               92997,               93898
+MCV4U,Calculus and Vectors,12,University Preparation,Mathematics,20,MHF4U,43320,42500,39150,39660,38719,38129,38415,       37950,               38844,               38630,               37155
+MAP4C,Foundations for College Mathematics,12,College Preparation,Mathematics,15,MBF3C or MCF3M,25510,26925,26830,27975,27759,28958,30192,       29678,               31085,               32537,               31773
+MDM4U,Mathematics of Data Management,12,University Preparation,Mathematics,21,MCF3M or MCR3U,31890,33670,31680,32805,32452,32932,33108,       33532,               34216,               35737,               35639
+SCH4U,Chemistry,12,University Preparation,Science,27,SCH3U,46825,44845,41585,42775,42275,41739,42164,       41704,               42272,               42276,               41315
+SCH4C,Chemistry,12,College Preparation,Science,25,SNC2D or SNC2P,9140,9120,10070,10475,11261,11603,12709,       12883,               13479,               14400,               14573
+ENG4E,English,12,Workplace Preparation,English,13,ENG3E,4395,3710,3280,3830,3815,4204,4404,        4630,                5046,                5532,                5878
+EAE4U,English,12,University Preparation,English,16,EAE3U,3725,3660,3350,3330,3078,3100,2954,        2963,                2897,                2955,                2885
+EBT4O,Business and Technological Communication,12,Open,English,22,ENG3C or ENG3E or ENG3U,110,120,115,255,324,277,430,         424,                 474,                 709,                 772
+BOH4M,Business Leadership: Management Fundamentals,12,University / College Preparation,Business Studies,26,0,22945,21190,18635,18250,17732,17669,18076,       17636,               17721,               17957,               17182
+BAT4M,Financial Accounting Principles,12,University / College Preparation,Business Studies,20,BAF3M,8810,7975,7830,8625,8537,9013,8959,        9178,                9874,               10568,               10069
+SNC4E,Science,12,Workplace Preparation,Science,24,SNC2L or SNC2P,1075,1160,980,1150,924,1063,1013,         900,                1052,                1254,                1391
+BBB4M,International Business Fundamentals,12,University / College Preparation,Business Studies,20,0,18105,18220,17135,17065,17207,17500,17192,       16970,               16806,               17996,               16447
+CHI4U,"Canada: History, Identity and Culture",12,University Preparation,Canadian and World Studies,20,"Any university or university/college preparation course in Canadian and world studies, English, or social sciences and humanities",800,965,1045,1265,1299,1441,1642,        2092,                2259,                3151,                3450
+ETS4U,Studies in Literature,12,University Preparation,English,27,ENG3U,2395,2220,2665,2495,2842,3069,3202,        3522,                4139,                4566,                5029
+SNC4M,Science,12,University / College Preparation,Science,43,"Science, Grade 10, Academic, or any Grade 11 university, university/college, or college preparation course in science",4320,4330,4180,4305,4483,3995,3464,        3455,                3190,                3388,                3301
+MEL4E,Mathematics for Work and Everyday Life,12,Workplace Preparation,Mathematics,24,MEL3E,4595,4565,4135,4575,4477,4616,5038,        5342,                5311,                6190,                6376
+MCT4C,Mathematics for College Technology,12,College Preparation,Mathematics,20,MCF3M or MCR3U,1555,1650,1935,2575,2706,2945,3499,        4076,                4319,                4446,                4584
+EAE4C,English,12,College Preparation,English,16,EAE3C,1560,1620,1635,1655,1480,1649,1620,        1654,                1719,                1690,                1661
+SPH4U,Physics,12,University Preparation,Science,31,SPH3U,28440,26440,24820,25650,25306,25151,25738,       25802,               25893,               26136,               24885
+ENG4C,English,12,College Preparation,English,15,ENG3C,45680,47685,48500,51015,51125,54056,55863,       56635,               61241,               66123,               66509
+TOJ4C,Child Development and Gerontology,12,College Preparation,Technological Education,20,0,810,945,865,1085,1118,1356,1410,        1468,                1380,                1713,                1925
+SES4U,Earth and Space Science,12,University Preparation,Science,20,SNC2D,3315,3115,3490,3860,3703,3952,4172,        4286,                4419,                4383,                4325
+HZT4U,Philosophy: Questions and Theories,12,University Preparation,Social Sciences and Humanities,20,"Any university or university/college preparation course in social sciences and humanities, English, or Canadian and world studies",16730,15910,15725,15730,15882,16831,17043,       17022,               18760,               20735,               21075
+SPH4C,Physics,12,College Preparation,Science,20,SNC2D or SNC2P,4750,4290,4710,5335,5708,6117,6485,        6848,                6972,                7337,                6944
+OLC4O,Ontario Secondary School Literacy Course,12,Open,English,20,Students who have been eligible to write the Ontario Secondary School Literacy Test (OSSLT) at least twice and who have been unsuccessful at least once are eligible to take the course.,6615,12190,22565,23470,21886,21038,19537,       19835,               20118,               20883,               20007
+EWC4U,The Writer's Craft,12,University Preparation,English,25,ENG3U,6195,6130,7685,9580,9823,10811,11794,       13557,               14929,               16801,               17686
