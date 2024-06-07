@@ -1,9 +1,6 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
-import seaborn as sns
-import matplotlib.pyplot as plt
-import altair as alt
 
 # Import csv
 df = pd.read_csv('tvo_test_data_final.csv')
